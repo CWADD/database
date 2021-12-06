@@ -10,6 +10,7 @@ namespace Self_Checkout_Simulator
         protected int barcode;
         protected string name;
         protected int weightInGrams;
+        //test
 
         // Operations
         public string GetName()
